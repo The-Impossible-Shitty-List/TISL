@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 1,
+    "name": "Shitty Nebulabrasque",
+    "author": "SLYE",
+    "creators": [SLYE],
+    "verifier": "naiut",
+    "verification": "https://youtu.be/M0AqmjGCJU4?si=SuJCcyf9wGJXNCv_",
+    "percentToQualify": "1",
+    "password": "NDA",
     "records": [
     ]
 }
