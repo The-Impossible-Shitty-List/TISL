@@ -1,11 +1,11 @@
 {
-    "id": 0,
+    "id": 1,
     "name": "Shitty Aeternus",
     "author": "RiftGD",
     "creators": ["RiftGD", "Scizor", "Blizzard"],
     "verifier": "NDA",
     "verification": "https://youtu.be/Zz_mWqgB79U?si=AckFvf6_XdX8_eEf",
-    "percentToQualify": 0,
+    "percentToQualify": 1,
     "password": "NDA",
     "records": [
         {
