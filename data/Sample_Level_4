@@ -1,0 +1,18 @@
+{
+    "id": 132152284,
+    "name": "Shitty Angelicide",
+    "author": "WinZonE",
+    "creators": ["WinZonE", "Deceit", "jackyy"],
+    "verifier": "Xtra8nuggies",
+    "verification": "https://youtu.be/RKF9IT4ZvDY?si=ye__bdGPb7rXp4_y",
+    "percentToQualify": 50,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "Kaza",
+            "link": "https://youtu.be/9mpg7OnCbCk?si=hs0JJrHbIarxs26e",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
