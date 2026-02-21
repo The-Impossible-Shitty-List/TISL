@@ -5,7 +5,7 @@
     "creators": ["RiftGD", "Scizor", "Blizzard"],
     "verifier": "NDA",
     "verification": "https://youtu.be/Zz_mWqgB79U?si=AckFvf6_XdX8_eEf",
-    "percentToQualify": NDA,
+    "percentToQualify": 0,
     "password": "NDA",
     "records": [
         {
