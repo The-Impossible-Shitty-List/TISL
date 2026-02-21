@@ -1,0 +1,24 @@
+{
+    "id": 119485203,
+    "name": "Shitty Grief",
+    "author": "RiftGMD",
+    "creators": ["RiftGMD"],
+    "verifier": "Stell06",
+    "verification": "https://youtu.be/q9ss4VXW6Oc?si=ORm7G-QV3B5yK68E",
+    "percentToQualify": 1,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "Stell06",
+            "link": "https://youtu.be/6f69I9UCEdo?si=LFbspmRW8rnlMDKi",
+            "percent": 84,
+            "hz": 240
+        },
+        {
+            "user": "Stell06",
+            "link": "https://youtu.be/W8ekDuGhtJk?si=k6oP0plocJ0ElYTk",
+            "percent": 80,
+            "hz": 144
+        }
+    ]
+}
