@@ -1,0 +1,37 @@
+{
+    "id": 116795677,
+    "name": "Shitty Flamewall",
+    "author": "Deceit",
+    "creators": ["Deceit"],
+    "verifier": "Oblivionus",
+    "verification": "https://youtu.be/2Qe5wy3aVrc?si=KcNUPxneS-c38ygm",
+    "percentToQualify": 50,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/J5MLT4S20Uo?si=TWEgw0UwxnGGq9Tz",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/W8ekDuGhtJk?si=k6oP0plocJ0ElYTk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "a6iq1",
+            "link": "https://youtu.be/uoNv0-HFs74?si=I16jOetJRP92gwsm",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dirten Silence",
+            "link": "https://youtu.be/JC4ohh4LLJQ?si=Wh1rsPweyUl9xb0b",
+            "percent": 64,
+            "hz": 240
+        }
+    ]
+}
+
