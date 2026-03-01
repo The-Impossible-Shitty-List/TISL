@@ -1,0 +1,39 @@
+{
+    "id": 91251360,
+    "name": "Shitty Limbo",
+    "author": "Asteria",
+    "creators": ["Kiwi1938", "Achlys", "Oculations", "Prometheus", "MamaMauve", "Kobra456", "Ryoui", "/Swan", "Axen", "Ace", "Deceit", "iRaily", "CarlIsBored", "Asteria", "Whitar", "fizyy", "xcl_0624"],
+    "verifier": "Skeeb",
+    "verification": "https://youtu.be/78qhIkwPqUg?si=2LEtsXaS5Zroc98o",
+    "percentToQualify": 75,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/M85yBXHlncw?si=tUVvD_je5XMMSXt5",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Diverse",
+            "link": "https://youtu.be/nugkwdmN7Rw?si=P157miWAZefNjPo2",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BrightBird",
+            "link": "https://youtu.be/FTnct7hg9HE?si=bh3vNb4egk-LtajK",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shel",
+            "link": "https://youtu.be/l7jFHGeBG9k?si=dpOOiIqD3hMsPyD0",
+            "percent": 78,
+            "hz": 240
+        }
+    ]
+}
+
+
+
