@@ -1,0 +1,38 @@
+{
+    "id": 113669811,
+    "name": "Shitty Nullscapes",
+    "author": "dofar",
+    "creators": ["dofar"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/kNZjWFTNtNI?si=Nyxne6BrqcuwEVUR",
+    "percentToQualify": 75,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/J5MLT4S20Uo?si=TWEgw0UwxnGGq9Tz",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/5aCrUwswf5k?si=gtr2uXEmpCwKE99j",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cobre",
+            "link": "https://youtu.be/EysJnlpzpqQ?si=GPRmRz5tUHRpcPqe",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Piwi591",
+            "link": "https://youtu.be/A3osrQY6M0Y?si=wApuZ3t2xlheUxu0",
+            "percent": 78,
+            "hz": 240
+        }
+    ]
+}
+
+
