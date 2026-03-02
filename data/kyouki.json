@@ -1,0 +1,42 @@
+{
+    "id": 94845605,
+    "name": "Shitty Kyouki",
+    "author": "Deceit",
+    "creators": ["Deceit", "Prometheus", "CarlIsBored"],
+    "verifier": "Diverse",
+    "verification": "https://youtu.be/bE61mDudcuQ?si=CgyIs2uuoOO-VyCG",
+    "percentToQualify": 75,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "Zyrogama",
+            "link": "https://youtu.be/RNsX1wkc6i0?si=B0LixngNYrojHiEz",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "vic",
+            "link": "https://youtu.be/3ylcOauA4NY?si=PjDZzZFfE-XHgqtD",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "npostou_gamer",
+            "link": "https://youtu.be/UgVB20O_Dv8?si=jF6GoorfeC5VrRTn",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mist3red",
+            "link": "https://youtu.be/i-aD74jd8jo?si=TFYY66IE9pyE4WFu",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Oblivionus",
+            "link": "https://youtu.be/NaSmGk0UbHk?si=07fEeHyEmAJS9Hpv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
