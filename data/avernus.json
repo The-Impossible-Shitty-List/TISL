@@ -1,0 +1,24 @@
+{
+    "id": 99689695,
+    "name": "Shitty Avernus",
+    "author": "mrcsgmd",
+    "creators": ["mrcsgmd", "stiven6"],
+    "verifier": "vic",
+    "verification": "https://youtu.be/D9KQGz5ah3I?si=FDWuwuMdPv57-KcZ",
+    "percentToQualify": 80,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "StormTrue",
+            "link": "https://youtu.be/jLD42wiYKrc?si=8SkZg3gGH235cJLT",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kuroshika",
+            "link": "https://youtu.be/GyHjWxuKwUs?si=UlOV12KzJgHsxEAv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
