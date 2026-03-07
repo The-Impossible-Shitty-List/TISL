@@ -1,0 +1,24 @@
+{
+    "id": 90628722,
+    "name": "Shitty Stellar Night",
+    "author": "PhysixX",
+    "creators": ["PhysixX"],
+    "verifier": "[CF] essie",
+    "verification": "https://youtu.be/8sZMPgCEm0c?si=LTVqOIjCj9xdELZG",
+    "percentToQualify": 80,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "Zernias",
+            "link": "https://youtu.be/otYIzSvBPUc?si=NUxzSRHc7QOE-Vkm",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/OcUBRGBGBak?si=2atZZ34K6_0en9dh",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
