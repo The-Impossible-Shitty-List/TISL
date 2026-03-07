@@ -1,0 +1,24 @@
+{
+    "id": 85438299,
+    "name": "Shitty Acheron",
+    "author": "Prometheus",
+    "creators": ["Prometheus"],
+    "verifier": "BrightBird",
+    "verification": "https://youtu.be/8sZMPgCEm0c?si=LTVqOIjCj9xdELZG",
+    "percentToQualify": 80,
+    "password": "Free for Copying",
+    "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/Ien0qtWzddc?si=n2AcHpF3-SzdTUu5",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "OneAlphaHelix",
+            "link": "https://youtu.be/v6Xw27T36sI?si=kleXhTZfn2C7Uu2h",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
